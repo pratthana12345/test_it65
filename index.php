@@ -1,6 +1,9 @@
 <?php include 'header.php' ?>
 <?php include 'banner.php' ?>
 <?php include 'navigator.php' ?>
+<div>
+  <h1>page index</h1>
+</div>
 
 <!--<div class="container mt-5">
   <div class="row">
