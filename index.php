@@ -3,6 +3,7 @@
 <?php include 'navigator.php' ?>
 <div>
   <h1>page index</h1>
+  <h1>page for server</h1>
 </div>
 
 <!--<div class="container mt-5">
